@@ -23,4 +23,5 @@
 127.0.0.1 core.polyad.net
 127.0.0.1 dt.polyad.net
 127.0.0.1 tracking.polyad.net
+127.0.0.1 go.polyad.net
 127.0.0.1 static.eclick.vn
