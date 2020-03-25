@@ -7,3 +7,5 @@
 # [bongdaso.com]
 127.0.0.1 media.jxf88.com
 127.0.0.1 v9banners.com
+127.0.0.1 sbbanner.com
+127.0.0.1 uwin71.com
