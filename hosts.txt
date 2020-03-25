@@ -13,3 +13,4 @@
 127.0.0.1 adtimaserver.vn
 127.0.0.1 pubmatic.com
 127.0.0.1 px.moatads.com
+127.0.0.1 za.zalo.me
