@@ -1,0 +1,9 @@
+# my personal blocklist
+# Blocking ads on some popular vietnamese sites
+
+127.0.0.1  localhost
+::1  localhost
+
+# [bongdaso.com]
+127.0.0.1 media.jxf88.com
+127.0.0.1 v9banners.com
