@@ -9,3 +9,7 @@
 127.0.0.1 v9banners.com
 127.0.0.1 sbbanner.com
 127.0.0.1 uwin71.com
+
+127.0.0.1 adtimaserver.vn
+127.0.0.1 pubmatic.com
+127.0.0.1 px.moatads.com
