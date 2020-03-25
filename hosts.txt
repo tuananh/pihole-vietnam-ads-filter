@@ -16,3 +16,4 @@
 127.0.0.1 za.zalo.me
 
 127.0.0.1 adi.admicro.vn
+127.0.0.1 adx.admicro.vn
