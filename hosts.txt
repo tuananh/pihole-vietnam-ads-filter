@@ -15,5 +15,6 @@
 127.0.0.1 px.moatads.com
 127.0.0.1 za.zalo.me
 
+# [admicro.vn]
 127.0.0.1 adi.admicro.vn
 127.0.0.1 adx.admicro.vn
