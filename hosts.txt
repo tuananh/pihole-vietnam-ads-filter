@@ -18,3 +18,6 @@
 # [admicro.vn]
 127.0.0.1 adi.admicro.vn
 127.0.0.1 adx.admicro.vn
+
+127.0.0.1 img.polyad.net
+127.0.0.1 static.eclick.vn
