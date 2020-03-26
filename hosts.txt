@@ -38,3 +38,20 @@
 127.0.0.1 static.eclick.vn
 
 127.0.0.1 criteo.net
+
+# [googlesyndication.com]
+127.0.0.1 ade.googlesyndication.com
+127.0.0.1 afs.googlesyndication.com
+127.0.0.1 buttons.googlesyndication.com
+127.0.0.1 c.googlesyndication.com
+127.0.0.1 domains.googlesyndication.com
+127.0.0.1 googlesyndication.com
+127.0.0.1 pagead.googlesyndication.com
+127.0.0.1 pagead1.googlesyndication.com
+127.0.0.1 pagead2.googlesyndication.com
+127.0.0.1 pagead3.googlesyndication.com
+127.0.0.1 tic.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com
+127.0.0.1 tpc.googlesyndication.com.proxy.c9w.net
+127.0.0.1 tpcnc.googlesyndication.com
+127.0.0.1 video-ad-stats.googlesyndication.com
