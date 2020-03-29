@@ -20,6 +20,7 @@
 127.0.0.1 static2.adtimaserver.vn
 127.0.0.1 stream.adtimaserver.vn
 127.0.0.1 stream.org.adtimaserver.vn
+127.0.0.1 adtima-media.zadn.vn
 
 127.0.0.1 pubmatic.com
 127.0.0.1 px.moatads.com
